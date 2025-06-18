@@ -99,3 +99,37 @@ Now "fail" a mission:
 
 echo "Mission 2: Failed" >> gta_saves.txt
 git checkout -- gta_saves.txt  # Undo!
+
+#######################################################################################################
+
+# Configure Git with Github:
+
+💡 git config --global user.name → This is the name that will appear next to your commits.
+✅ So yes:
+Use your GitHub display name — or any professional name you want shown publicly on GitHub.
+
+Example:
+
+git config --global user.name "YourName"   # or your real name if you prefer
+💡 git config --global user.email → This must be the same email as your GitHub account, or GitHub won’t link your commits to your profile.
+
+Example:
+
+git config --global user.email "yourgithubemail@example.com"
+✅ You can check your GitHub email here:
+Go to github.com → Settings → Emails
+
+If you want to hide your real email, GitHub gives you a noreply email like:
+
+12345678+yourusername@users.noreply.github.com
+You can use that too — GitHub will still link it to your account.
+
+Final Step (to check it's correct):
+
+git config --global --list
+
+It should output:
+
+user.name=YourName
+user.email=yourgithubemail@example.com
+
