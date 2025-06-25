@@ -1,4 +1,4 @@
-# TryHackMe Room: Defensive Security Intro - Notes
+# Defensive Security Intro
 
 ## 🛡️ What is Defensive Security?
 

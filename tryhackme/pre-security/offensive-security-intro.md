@@ -1,4 +1,4 @@
-# Offensive Security Intro – TryHackMe
+# Offensive Security Intro
 
 ## 📘 Summary
 This was my first step into offensive security. I learned the basics of what offensive security means — simulating real hacker actions to uncover vulnerabilities — and practiced hacking a fake bank web application in a safe environment.
