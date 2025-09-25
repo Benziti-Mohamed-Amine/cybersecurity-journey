@@ -1,4 +1,4 @@
-# Intro to LAN:
+# OSI Model:
 
 ## 📘 Summary
 This room introduced me to the Open Systems Interconnection (OSI) model, a 7-layer framework that explains how devices communicate over a network. Each layer has its own role, and together they ensure data moves from one device to another reliably.
